@@ -16,3 +16,6 @@ data
 --Pancreas
 ----Pancreas_h5
 ------image00XX_norm.h5,  (like this  "image0001_norm.h5")
+
+
+about the BraTS2019 dataset, you could refer https://github.com/HiLab-git/SSL4MIS/tree/master/data/BraTS2019
